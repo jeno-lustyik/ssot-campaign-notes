@@ -1,40 +1,35 @@
-Here’s a streamlined system for **class-specific rune features**, **racial adjustments**, and **corruption mechanics** tailored to your setting. These features are designed to enhance class fantasy without overwhelming players, while tying progression to your rune-centric world:
-
----
-
 ### **Class-Specific Rune Features**  
 **Mechanics:**  
 - At **Level 4**, each player gains a **Rune Slot** (class-specific accessory) and a **Class Rune** tied to their archetype.  
 - **Activation:** Use a bonus action to activate the rune once per long rest, enhancing a core class feature.  
 - **Aasimar/Tiefling Elevation:** Once per week, they can empower a party member's (see Racial Traits), risking corruption. The Rune stays empowered until corrupted. Elevated runes 
 - **Corruption:** Roll a DC10 saving throw after using an elevated rune. The rune becomes corrupted (inert until cleansed by a Triton).
-
 ---
 
 #### **Class Features & Runes**  
-| **Class**     | **Rune Slot**    | **Rune Effect**                                                                   | **Empowered (Aasimar/Tiefling)**                         |     |
-| ------------- | ---------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- | --- |
-| **Barbarian** | Rune-Carved Belt | While raging, your strikes deal +1d4 fire (Volcanic) or necrotic (Umbral) damage. | Double the bonus damage; enemies combust on death (1d6). |     |
-| **Bard**      | Lyre String      | When using Bardic Inspiration, target gains 1d4 temp HP (Ember).                  | Temp HP becomes 1d6 + CHA; lasts 1 hour.                 |     |
-| **Cleric**    | Sanctified Chain | When you heal, allies within 10ft regain 1d4 HP (Hearth).                         | Heal 1d8 instead; cure one condition (poisoned, etc.).   |     |
-| **Druid**     | Root Clasp       | Wild Shape gains +2 AC (Verdant).                                                 | Wild Shape gains a thorn aura (1d4 dmg to attackers).    |     |
-| **Fighter**   | Armor Sigil      | Second Wind restores +1d6 HP (Auric).                                             | Second Wind grants +1 AC for 1 minute.                   |     |
-| **Monk**      | Wrist Bindings   | Flurry of Blows deals +1d4 force damage (Arcana).                                 | Teleport 10ft before Flurry (no opportunity attacks).    |     |
-| **Paladin**   | Shield Engraving | Divine Smite deals +1d4 radiant (Celestial) or necrotic (Umbral).                 | Smite crits on 19-20 for 1 minute.                       |     |
-| **Ranger**    | Quiver Rune      | Hunter’s Mark adds +1d4 damage (Wilds).                                           | Marked target is slowed (speed halved) on hit.           |     |
-| **Rogue**     | Shadow Cloak Pin | Sneak Attack deals +1d4 psychic (Veil).                                           | Invisible for 1 turn after Sneak Attack.                 |     |
-| **Sorcerer**  | Spellshard Ring  | Metamagic costs 1 less SP once per rest (Arcana).                                 | Regain 1 SP after casting a leveled spell.               |     |
-| **Warlock**   | Pact Tattoo      | Eldritch Blast pushes targets 5ft (Tides).                                        | Targets are knocked prone (STR save).                    |     |
-| **Wizard**    | Bracer Glyph     | Regain one 1st-level spell slot (Arcana).                                         | Next spell is cast at +1 level.                          |     |
+| **Class**     | **Rune Slot**    | **Rune Effect**                                                                   | **Elevated (spoiler)**                                 | **Empowered (spoiler)**                       |
+| ------------- | ---------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------- |
+| **Barbarian** | Rune-Carved Belt | While raging, your strikes deal +1d4 fire (Volcanic) or necrotic (Umbral) damage. | Double the bonus damage.                               | Enemies combust on death, dealing 2d8 damage. |
+| **Bard**      | Lyre String      | When using Bardic Inspiration, target gains 1d4 temp HP (Ember).                  | Temp HP becomes 1d6 + CHA; lasts 1 hour.               |                                               |
+| **Cleric**    | Sanctified Chain | When you heal, allies within 10ft regain 1d4 HP (Hearth).                         | Heal 1d8 instead; cure one condition (poisoned, etc.). |                                               |
+| **Druid**     | Root Clasp       | Wild Shape gains +2 AC (Verdant).                                                 | Wild Shape gains a thorn aura (1d4 dmg to attackers).  |                                               |
+| **Fighter**   | Armor Sigil      | Second Wind restores +1d6 HP (Auric).                                             | Second Wind grants +1 AC for 1 minute.                 |                                               |
+| **Monk**      | Wrist Bindings   | Flurry of Blows deals +1d4 force damage (Arcana).                                 | Teleport 10ft before Flurry (no opportunity attacks).  |                                               |
+| **Paladin**   | Shield Engraving | Divine Smite deals +1d4 radiant (Celestial) or necrotic (Umbral).                 | Smite crits on 19-20 for 1 minute.                     |                                               |
+| **Ranger**    | Quiver Rune      | Hunter’s Mark adds +1d4 damage (Wilds).                                           | Marked target is slowed (speed halved) on hit.         |                                               |
+| **Rogue**     | Shadow Cloak Pin | Sneak Attack deals +1d4 psychic (Veil).                                           | Invisible for 1 turn after Sneak Attack.               |                                               |
+| **Sorcerer**  | Spellshard Ring  | Metamagic costs 1 less SP once per rest (Arcana).                                 | Regain 1 SP after casting a leveled spell.             |                                               |
+| **Warlock**   | Pact Tattoo      |                                                                                   | Targets are knocked prone (STR save).                  |                                               |
+| **Wizard**    | Bracer Glyph     | Regain one 1st-level spell slot (Arcana).                                         | Next spell is cast at +1 level.                        |                                               |
 
 ---
 
 ### **Racial Adjustments**  
 **1. Aasimar:**  
-- **Celestial Elevation:** Once per week, when you use *Radiant Soul* or *Necrotic Shroud*, you may empower a rune in your party instead of the racial trait.
+- **Celestial Elevation:** Once per week, you may elevate a rune in your party, granting it your Celestial Heritage, granting it a new power. 
 
 **2. Tiefling:**  
-- **Infernal Elevation:** Once per week, when you use *Hellish Rebuke*, you may empower your Class Rune instead of dealing fire damage.  
+- **Infernal Empowerment:** Once per week, you may empower a rune in your party, empowering it with your Infernal Heritage, granting it new power.
 
 **3. Triton:**  
 - **Tide Cleanser:** Once per long rest, cleanse a corrupted rune by submerging it in water for 1 minute.  
@@ -46,7 +41,7 @@ Here’s a streamlined system for **class-specific rune features**, **racial adj
 ---
 
 ### **Corruption & Cleansing**  
-- **Corruption Risk:** Only Aasimar/Tieflings trigger corruption when elevating runes (1 on a d20 roll).  
+- **Corruption Risk:** Using Elevated/Empowered runes will result .  
 - **Effects of Corruption:**  
   - The rune becomes inert and cannot be used.  
   - The user gains a **Corruption Token** (disadvantage on saves vs. Entropy/Hollow effects until cleansed).  
