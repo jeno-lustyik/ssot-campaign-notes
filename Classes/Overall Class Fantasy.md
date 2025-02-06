@@ -20,7 +20,7 @@
 | **Rogue**     | Shadow Cloak Pin | Sneak Attack deals +1d4 psychic (Veil).                                           | Invisible for 1 turn after Sneak Attack.               |                                               |
 | **Sorcerer**  | Spellshard Ring  | Metamagic costs 1 less SP once per rest (Arcana).                                 | Regain 1 SP after casting a leveled spell.             |                                               |
 | **Warlock**   | Pact Tattoo      |                                                                                   | Targets are knocked prone (STR save).                  |                                               |
-| **Wizard**    | Bracer Glyph     | Regain one 1st-level spell slot (Arcana).                                         | Next spell is cast at +1 level.                        |                                               |
+| **Wizard**    | Bracer Glyph     | Regain one 1st-level spell slot (Arcana).8                                        | Next spell is cast at +1 level.                        |                                               |
 
 ---
 
