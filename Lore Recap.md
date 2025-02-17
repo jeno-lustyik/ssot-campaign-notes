@@ -1,121 +1,68 @@
 **✧ Thaedras Campaign Lore Recap ✧**  
-*Version 2.0 – The Holy Expedition*  
+*Version 3.0 – The Crusade of Purity*  
 
 ---
 
-### **Core Pillars**  
+### **Core Lore Elements:**  
+
 1. **The Old World (Thaedras):**  
-   - A shattered land of colossal ruins, petrified giant husks, and unstable **runes**.  
-   - Giants once ruled here, but their hubris unleashed the **Runeplague** via the **First Rune**, an artifact imprisoning **Karys** (Entropy entity).  
-   - Now a "cursed" frontier where settlers scavenge relics and evade corrupted **Ruinemarks**.  
+   - Once a land ruled by giants, Thaedras fell to ruin when the giants meddled with forbidden runes, unleashing a creeping corruption that consumed their civilization. The giants vanished, leaving behind only their colossal husks and crumbling ruins.  
+   - The corruption, born of the **Entropy** and **Hollow** runes, now seeps into the sea, carried by relics and debris that wash ashore in the New World. These relics, though powerful, carry the taint of Thaedras’ downfall.  
 
 2. **The New World (Vespera):**  
-   - A unified nation ruled by the **Iron Accord**, a council of guilds.  
-   - Three dominant factions vie for power:  
-     - **The Crowned Chalice** (holy enforcers of Order).  
-     - **The Veiled Quill** (secretive rune-scholars).  
-     - **The Tideturner Collective** (resource harvesters).  
-   - Technology relies on salvaged giant relics (e.g., the *Ironclad Retribution*’s rune-boiler).  
+   - A thousand years after Thaedras’ fall, Vespera thrives as a beacon of order and faith, ruled by the Church of the Crown. The Crown, a cosmic force representing Order and Authority, is the central pillar of Vesperan society.  
+   - However, the arrival of Thaedran relics has begun to spread corruption. Strange diseases plague the slums, and whispers of unrest grow louder. The Church, ever vigilant, blames these ills on heresy and demands absolute faith in the Crown’s divine mandate.  
+   - To combat the growing threat, the Church launches the **Crusade of Purity**, a holy expedition to Thaedras. Officially, the Crusade seeks to cleanse the Old World of corruption and reclaim its lost relics. Unofficially, it serves as a convenient means to exile political dissidents and consolidate the Church’s power.  
 
 3. **Runes & Cosmic Forces:**  
    - **Harmonious Powers (7):** *Forge (Volcanic), Tides (Aquatic), Hearth (Ember), Veil (Umbral), Crown (Auric), Wilds (Verdant), Arcana (Celestial).*  
-     - Fragments of the shattered First Rune.  
+     - Fragments of the shattered **First Rune**, the source of all creation.  
    - **Forbidden Powers (2):** *Entropy (decay), Hollow (void).*  
-     - Artificial runes created by giants, causing their downfall.  
-
-4. **The Holy Expedition:**  
-   - A Crusade to Thaedras, orchestrated by **The Crowned Chalice** to reclaim "holy" Auric runes and legitimize their rule.  
-   - Secretly, all factions seek the **First Rune** for their own ends.  
+     - Artificial runes created by the giants, which led to their downfall.  
 
 ---
 
 ### **Factions**  
-#### **1. The Crowned Chalice**  
+
+#### **1. The Church of the Crown**  
 **Theme:** *Theocratic Enforcers of Order*  
-**Goal:** Conquer Thaedras to impose divine law under **The Crown’s Mandate**.  
-**Power:** Military might, religious control, Auric rune authority.  
-**Weakness:** Dependent on Tideturners (resources) and Veiled Quill (rune translations).  
+**Goal:** Maintain absolute control over Vespera and eradicate corruption by any means necessary.  
+**Power:** Military might, religious authority, and control over Auric runes.  
+**Weakness:** Dependent on the Scribes for runic knowledge and the Syndicate for resources.  
 **Secrets:**  
-   - Their leader, **Hierophant Voll**, is corrupted by a **Hollow rune** masquerading as divine visions. 
-   - Use forbidden Umbral runes to assassinate dissenters.  
+   - The Church’s leader, **High Hierophant Voll**, is secretly influenced by a **Hollow rune**, which masquerades as divine visions.  
+   - The Church uses forbidden Umbral runes to silence dissenters, branding them as heretics.  
 
-#### **2. The Veiled Quill**  
-**Theme:** *Knowledge Hoarders, Rune Archivists*  
-**Goal:** Reclaim the First Rune to unlock "perfect knowledge."  
-**Power:** Monopoly on runic translations, blackmail leverage.  
-**Weakness:** No military; leaders are mutating from runic exposure.  
+#### **2. The Scribes of the Veil**  
+**Theme:** *Knowledge Seekers, Rune Scholars*  
+**Goal:** Unlock the secrets of the First Rune to achieve perfect knowledge and understanding.  
+**Power:** Monopoly on runic translations and ancient texts.  
+**Weakness:** No military force; their leaders are slowly succumbing to runic corruption.  
 **Secrets:**  
-   - Their leader, **Archivist Lylah**, is turning to stone.  
-   - Sabotage the Chalice by leaking their hypocrisy.  
+   - Their leader, **Archivist Lylah**, is turning to stone due to prolonged exposure to unstable runes.  
+   - The Scribes secretly sabotage the Church by leaking information about their hypocrisy and forbidden practices.  
 
-#### **3. The Tideturner Collective**  
-**Theme:** *Resource Pragmatists, Black Market Lords*  
-**Goal:** Profit from Thaedras’ relics and defy Chalice control.  
-**Power:** Supply chains, smuggler networks, giant-derived rituals.  
-**Weakness:** Ignorant of runic origins; rituals are fading.  
+#### **3. The Blackwater Syndicate**  
+**Theme:** *Shadowy Opportunists, Smugglers, and Rebels*  
+**Goal:** Profit from the chaos by smuggling relics and undermining the Church’s control.  
+**Power:** Extensive smuggling networks, control over black market trade, and knowledge of forbidden rituals.  
+**Weakness:** Their rituals are fading, and they are unaware of the true dangers of the relics they trade.  
 **Secrets:**  
-   - Founder **Bracken** learned rituals from a dying giant.  
-   - Hoard unstable runes to sell as "art."  
+   - The Syndicate’s founder, **Mara Bracken**, learned her rituals from a dying giant, but the knowledge is incomplete.  
+   - They hoard unstable runes, selling them as exotic artifacts to the highest bidder.  
 
 ---
 
-### **The Holy Expedition**  
-**Purpose:** Publicly a "divine crusade" to purify Thaedras; secretly a race to claim the First Rune.  
+### **The Crusade of Purity**  
+**Purpose:** Officially, a holy mission to cleanse Thaedras of corruption and reclaim its relics. Unofficially, a means to exile political opponents and secure the Church’s dominance.  
 **Faction Agendas:**  
-- **Crowned Chalice:** Secure Auric runes to legitimize rule.  
-- **Veiled Quill:** Study the First Rune to control creation.  
-- **Tideturners:** Smuggle relics and destabilize the Chalice.  
+- **Church of the Crown:** Secure Auric runes to legitimize their rule and eradicate corruption.  
+- **Scribes of the Veil:** Study the First Rune to gain ultimate knowledge and control over creation.  
+- **Blackwater Syndicate:** Smuggle relics and destabilize the Church’s control, profiting from the chaos.  
 
 **Key Locations:**  
-- **Beacon’s Reach:** The expedition’s crumbling outpost.  
-- **The Petrified Forest:** A graveyard of giant husks hiding a **Verdant rune**.  
-- **The Shattered Forge:** A volcanic ruin with the **First Rune’s** prison.  
+- **Beacon’s Reach:** The Crusade’s crumbling outpost in Thaedras, a symbol of the Church’s fading control.  
+- **The Petrified Forest:** A graveyard of giant husks, rumored to hide a powerful **Verdant rune**.  
+- **The Shattered Forge:** A volcanic ruin said to contain the prison of the **First Rune**, though its location shifts as corruption spreads.  
 
 ---
-
-### **Player Hooks**  
-1. **The Penitent’s Secret:** A Tideturner worker reveals the *Retribution*’s boiler rituals are failing. Fixing them requires delving into a giant tomb—and learning their runic truth.  
-2. **The Hollow Prophet:** A Chalice defector claims to hear The Crown’s "true voice," but it’s a **Hollow rune** erasing memories in camp.  
-3. **The Scholar’s Gambit:** The Veiled Quill offers riches to steal a Celestial rune from the Chalice—but it’s a trap to expose their corruption.  
-
----
-
-### **Mechanics**  
-1. **Runic Affinity:**  
-   - Casters/Martials can attune to runes for power, risking **Corruption** (DC 13 save).  
-   - **Aasimar/Tieflings** can elevate runes 1/day (Celestial/Infernal effects).  
-
-2. **Faction Reputation:**  
-   - Aid factions to earn boons:  
-     - **Chalice:** +1d8 temp HP during prayers.  
-     - **Quill:** Decipher one rune’s properties.  
-     - **Tideturners:** Steal a relic unnoticed.  
-
-3. **Corruption Track:**  
-   - Accumulate Corruption (0–10) from rune use.  
-   - **3+:** Nightmares, -2 Perception.  
-   - **7+:** Mutations (stone skin, glowing eyes).  
-   - **10:** Become a **Ruinemark** (NPC).  
-
----
-
-### **Inconsistencies to Address**  
-1. **Why do Tideturners resist Chalice despite dependence?**  
-   - *Fix:* They rely on Chalice protection but use smuggling to fund rebellion.  
-
-2. **How do Veiled Quill scholars stay hidden?**  
-   - *Fix:* They work through proxies (players) and destroy incriminating research.  
-
-3. **Why hasn’t the First Rune’s prison been found?**  
-   - *Fix:* The prison shifts locations, revealed only when Corruption spreads.  
-
----
-
-### **Remaining Questions**  
-1. Should the **First Rune** be sentient? Could it communicate with Aasimar/Tieflings?  
-2. How does Karys (Entropy) interact with the factions? Does it manipulate the Chalice’s Hollow rune?  
-3. What happens if the expedition fails? Does Thaedras’ corruption spread to Vespera?  
-
----
-
-This recap consolidates factions, runes, and the expedition into a cohesive framework. Let me know if you’d like to refine the Corruption mechanics, faction quests, or Karys’ role! 🏰🔮

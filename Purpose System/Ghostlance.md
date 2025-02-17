@@ -1,4 +1,3 @@
-**Background: Ghostlance**  
 _You are bound to a spectral force—a restless spirit, a vengeful phantom, or a pact with the afterlife itself. Whether through a cursed weapon, a fatal oath, or a brush with death, your existence intertwines with the ethereal. You wield ghostly powers channeled through a weapon (often a lance or polearm), striking with uncanny precision and phasing through defenses. Your presence unsettles allies and foes alike, as whispers of the dead cling to your every move._
 
 **Skill Proficiencies:** Stealth, Persuasion  

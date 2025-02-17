@@ -1,4 +1,3 @@
-**Background: Mercenary Veteran**  
 _You are a seasoned fighter who has survived countless battles and served in various mercenary companies. Your life has been shaped by the clash of steel, the camaraderie of fellow soldiers, and the pursuit of gold. Whether driven by loyalty to a company, a thirst for glory, or a desire to leave a legacy, your skills on the battlefield are unmatched. You know how to lead, how to survive, and how to turn the tide of combat._  
 
 **Skill Proficiencies:** Athletics, Intimidation  
