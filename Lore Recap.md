@@ -1,5 +1,5 @@
 **✧ Thaedras Campaign Lore Recap ✧**  
-*Version 3.0 – The Crusade of Purity*  
+*Version 3.0 – The Crusade of Purity*
 
 ---
 
