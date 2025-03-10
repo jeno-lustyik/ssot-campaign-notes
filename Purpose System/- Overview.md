@@ -1,4 +1,0 @@
-### Purpose System (Expanded Backgrounds)
-
-Mechanically the _Piety System from Mythic Odysseys of Theros,_ but tied to your characters’ background. If you expand on your background and play your character in accordance to that backgrounds’ description and traits, the DM can award you with Purpose points. You gain extra background features at a set number of points collected **(3, 10, 25, 50).**
-The intent of this system is to encourage the players roleplaying by providing them with an extra sense of progression and rewards. It is up to the DM to determine how many points they want to distribute and at what pace, although reaching 50 points should be a significant milestone and should not be achieved quickly.
